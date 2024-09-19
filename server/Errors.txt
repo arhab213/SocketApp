@@ -1,0 +1,11 @@
+error:"10"=> password don't have a maj caractere or min or number 
+error:"12"=> please enter a valid token 
+error:"13"=> probleme when signing in with token 
+error:"14"=> token expired please relogin to enter 
+error:"15"=> need to create a account to enter 
+error:"16"=> your inputs needs to be in the norme verify email or password or you need to write your name 
+error:"17"=> adress already used 
+error:"18"=> the update operation goes wrong 
+error:"19"=> password incorrect 
+error:"20"=> user not found in data base after using middleware 
+redirect:"1"=> the user need to relogin using the regenration token acess uri 
